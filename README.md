@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <h3>Programming</h3>
+  <h3>Automotive Software Programming</h3>
 </div>
 
 <div align="center">
