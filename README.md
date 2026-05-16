@@ -1,9 +1,9 @@
 
 <div align=center>
   Hi, I’m Nayeon ! <br>
-  I'm majoring in Computer Science.<br>
-  I use C & JAVA Language mostly.<br>
-  For now, focusing on Mobility R&D.<br>
+  I majored in <b>Computer Science</b>.<br>
+  My interest is on Mobility R&D. <br>
+  For now, I'm an <b>Software Test Engineer</b> focusing on Automotive Infotainment. <br>
   <br>
   ::Contact Info:: <br> skdus3373@gmail.com <br>
 <br>
@@ -11,44 +11,48 @@
 ![image](https://github.com/Clover0817/Clover0817/assets/77714668/92561ddf-a18c-458a-9636-741dbe52962b)
 
 
-<!--![mascot](https://github.com/Clover0817/Clover0817/assets/77714668/dd13a755-3862-41b0-a454-ee68d6de4fe4)>-->
-
-</div>
-<div align=center>
-	<h3> Tech Stack </h3>
-</div>
 <div align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <h3>Automotive Software Testing</h3>
+</div>
 
-<br>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+<div align="center">
 
+<img src="https://img.shields.io/badge/CANoe-00AEEF?style=flat-square&logo=vectorworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Polyspace-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/VectorCAST-00599C?style=flat-square&logo=vectorworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trace32-333333?style=flat-square&logo=task&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobilgene-555555?style=flat-square&logo=car&logoColor=white"/>
+<img src="https://img.shields.io/badge/ISTQB-000000?style=flat-square&logo=checkmarx&logoColor=white"/>
+
+</div>
+
+<div align="center">
+  <h3>Programming</h3>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAPL-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%202019%20Pro-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Insight%204.0-444444?style=flat-square&logo=sourceengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-00AEEF?style=flat-square&logo=jira&logoColor=white"/>
+
+</div>
+
+<div align="center">
+  <h3>Utilities</h3>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WinMerge-1F75FE?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Beyond%20Compare-FF8C00?style=flat-square&logo=files&logoColor=white"/>
+<img src="https://img.shields.io/badge/Everything-333333?style=flat-square&logo=search&logoColor=white"/>
+<img src="https://img.shields.io/badge/HexView-800080?style=flat-square&logo=hexo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cygwin-006400?style=flat-square&logo=gnubash&logoColor=white"/>
 
 </div>
 <br>
-<br>
-
-<div align=center>
-🧘🏻‍♂️Studying..
-<br>
-🖤CATIA/M.E.C.A.
-</div>
